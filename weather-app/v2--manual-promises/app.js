@@ -19,3 +19,7 @@ const argv = yargs.
     .argv;
 
 console.log(argv);
+
+const myProm = new Promise((resolve, reject) => {
+
+});
